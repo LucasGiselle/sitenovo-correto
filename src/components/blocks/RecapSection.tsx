@@ -71,7 +71,7 @@ const RecapSection: React.FC = () => {
             <button 
               id="botao-compra" 
               onClick={() => {
-                window.location.href = 'https://pay.kiwify.com.br/jL15LU8';
+                window.location.href = 'https://pay.kiwify.com.br/AD4vbqc';
               }}
               className="relative px-8 py-4 
                 bg-gradient-to-r from-gold via-yellow-400 to-gold
