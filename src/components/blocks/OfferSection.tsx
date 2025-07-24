@@ -66,13 +66,13 @@ const OfferSection: React.FC = () => {
                   {/* Price display */}
                   <div className="mb-10">
                     <div className="flex items-center justify-center md:justify-start gap-4 mb-4">
-                      <span className="text-2xl font-medium line-through text-gray-500">R$ 97,00</span>
+                      <span className="text-2xl font-medium line-through text-gray-500">R$ 47,00</span>
                       <div className="bg-red-600 text-white px-3 py-1 rounded-full text-sm font-bold animate-pulse">
-                        51% OFF
+                        58% OFF
                       </div>
                     </div>
                     <div className="text-5xl md:text-6xl font-bold text-gold bg-gradient-to-r from-gold via-yellow-400 to-gold bg-clip-text text-transparent animate-shimmer">
-                      R$ 47,00
+                      R$ 19,90
                     </div>
                     <div className="flex items-center justify-center md:justify-start gap-2 mt-4 text-red-400 animate-pulse">
                       <Clock className="w-5 h-5" />

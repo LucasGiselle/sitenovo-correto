@@ -60,10 +60,10 @@ const RecapSection: React.FC = () => {
             </div>
             <p className="text-2xl font-semibold mb-2">
               <span className="text-gray-300">De </span>
-              <span className="line-through text-gray-400">R$ 97,00</span>
+              <span className="line-through text-gray-400">R$ 47,00</span>
               <span className="text-gray-300"> por apenas</span>
             </p>
-            <p className="text-4xl md:text-5xl font-bold text-gold mb-4">R$ 47,00</p>
+            <p className="text-4xl md:text-5xl font-bold text-gold mb-4">R$ 19,90</p>
             <p className="text-gray-400">Oferta por tempo limitado!</p>
           </div>
           
